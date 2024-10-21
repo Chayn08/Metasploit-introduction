@@ -35,6 +35,7 @@ TryHackMe’s Metasploit Room: An interactive platform offering practical exerci
 By building my skills with Metasploit, I am taking a crucial step toward becoming a professional pentester. Mastering this tool will help me develop the expertise needed to identify, exploit, and secure vulnerabilities in real-world environments.
 
 
+![image](https://github.com/user-attachments/assets/115ce3ca-14b0-4566-ab55-c861b4b1e3e9)
 
 
 
